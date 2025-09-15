@@ -42,7 +42,7 @@ try {
   console.error("Error fetching user:", error.message); 
   throw error;
 }
-//asdas
+//asdasdasdasd
 // (6) 2-space indentation, (7) max line length ≤100, (8) camelCase variables
 // (10) semicolons used consistently
 // (16) never mutating input directly
